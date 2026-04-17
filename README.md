@@ -35,8 +35,10 @@ A full-stack social media platform built using Django that enables users to conn
 
 ## Screenshots
 
-![Home Page](screenshots/image1.png)
-![Post Feature](screenshots/image2.png)
+![Sign Up](simple_social_screenshots/image1.png)
+![Log In](simple_social_screenshots/image2.png)
+![Home](simple_social_screenshots/image4.png)
+![Groups](simple_social_screenshots/image3.png)
 
 ## Author
 
